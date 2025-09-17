@@ -1,0 +1,44 @@
+
+.select_titile{
+    color: green;
+    font-size: 40px;
+
+}
+h1{
+    color: brown;
+    font-size: 30px;
+}
+h3{
+    color: red;
+    font-size: 25px;
+}
+.newclass{
+    color: peru;
+    font-size: 20px;
+}
+.educational_container h4{
+    color: blue;
+    font-size: 20px;
+}
+.educational_container h5{
+    color: green;
+    font-size: 15px;
+}
+/* body{   
+    background-image: url("./assets/image2.jpeg");
+    background-size: contain;    
+}  */
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}*
+/* h1{
+    margin: 10;
+    border: 10;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
