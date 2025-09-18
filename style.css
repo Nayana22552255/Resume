@@ -1,44 +1,40 @@
 
-.select_titile{
-    color: green;
+/* .select_titile{
+    color: rgb(74, 95, 74);
     font-size: 40px;
 
-}
+} */
 h1{
-    color: brown;
-    font-size: 30px;
-}
-h3{
-    color: red;
+    color: rgb(9, 8, 8);
     font-size: 25px;
 }
-.newclass{
-    color: peru;
-    font-size: 20px;
+h3{
+    color: rgb(12, 10, 10);
+    font-size: 25px;
 }
-.educational_container h4{
+/* .skill{
+    color: black;
+    font-size: 
+} */
+.newclass{
+    color: rgb(2, 2, 2);
+    font-size: px;
+}
+/* .educational_container h4{
     color: blue;
     font-size: 20px;
-}
+} */
 .educational_container h5{
-    color: green;
+    color: rgb(1, 12, 1);
     font-size: 15px;
 }
 /* body{   
-    background-image: url("./assets/image2.jpeg");
+    background-image: url("assets/image.jpg");
     background-size: contain;    
 }  */
 *{
-    margin: 0;
-    border: 0;
-    padding: 0;
-    /* box-sizing: border-box; */
-}*
-/* h1{
     margin: 10;
     border: 10;
-    padding: 0;
-    box-sizing: border-box;
-} */
-
-
+    padding: 10;
+    /* box-sizing: border-box;  */
+}*
